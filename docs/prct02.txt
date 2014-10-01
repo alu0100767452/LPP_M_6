@@ -1,1 +1,8 @@
 Trabajo en equipo con git
+La respuesta a la pregunta es: La principal diferencia entre la compilación e interpretación es que al compilar un código fuente, el compilador traduce a código máquina y posteriormente lo ejecuta, sin embargo, el intérprete lo que hace es ir traduciendo a código máquina y las líneas de código y las va ejecutando sobre la marcha. 
+
+¿Cuál es la principal diferencia entre el contenido del ﬁchero helloWorld.sh y helloWorld.rb?
+La principal diferencia entre el contenido de el fichero en bash y el de ruby radica en que el de ruby no tiene ninguna línea shebang por lo cual no se puede ejecutar directamente sobre la terminal aunque tenga permisos de ejecución, para ello nos hace falta el interprete de ruby. En cambio el script si se ejecutaria con los permisos oportunos ya que tiene #!/bin/bash
+
+¿Qué signiﬁcado tiene la primera línea del ﬁchero helloWorld.sh?
+La primera línea es una shebang que indica la ruta del intérprete que ejecutará el programa.
