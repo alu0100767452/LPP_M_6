@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+La respuesta a la pregunta es: La principal diferencia entre la compilación e interpretación es que al compilar un código fuente, el compilador traduce a código máquina y posteriormente lo ejecuta, sin embargo, el intérprete lo que hace es ir traduciendo a código máquina y las líneas de código y las va ejecutando sobre la marcha. 
